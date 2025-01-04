@@ -1,0 +1,11 @@
+[package]
+name = "lambda-calculus"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+categories = ["mathematics"]
+keywords = ["math"]
+repository = "https://github.com/BastianAsmussen/lambda-calculus"
+description = "A λ-calculus interpreter."
+
+[dependencies]
