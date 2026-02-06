@@ -10,4 +10,4 @@ description = "A λ-calculus interpreter."
 
 [dependencies]
 anyhow = "1.0.95"
-bnf = "0.5.0"
+bnf = "0.6"
